@@ -5,7 +5,7 @@ tags: meta blog writing
 description: One day you were writing a blog, and suddenly you forgot about it. Why is it so hard to find new things to write about?
 image: /img/stock/pexels-fashion-woman-notebook-pen-34072.jpg
 author: Evans Jahja
-publisher: Evans Jahja
+
 ---
 How to know how to write
 ========================
