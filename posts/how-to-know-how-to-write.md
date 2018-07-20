@@ -156,4 +156,7 @@ to it.
 Hopefully this lesson encourages you to write more. It ain't easy, but we'll
 get to it.
 
+Special thanks to [Commanvil](https://github.com/Commanvil) for helping me out
+with the grammars.
+
 [**Click to see Comments**](https://github.com/Charon77/charon77.github.io/issues/2)
