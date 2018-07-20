@@ -85,14 +85,13 @@ are, don't worry, we won't be needing them.
 #### How does Markdown do anything differently?
 
 Unlike the more difficult HTML or CSS, Markdown, on the other hand contains **just**
-the document and nothing else. This is achieved by having _markups_ that looks
+the document and nothing else. This is achieved by having _markups_ that look
 natural to the human eyes (hence the name Markdown).
 
 Despite that, Markdown is powerful enough to do _some formatting_ to make pretty
 websites. In fact, this blog is written with Markdown. Don't believe me? You can
-check the source Markdown for this article (or any other articles) by changing
-the link in the address bar from `.html` to `.md`
-(or, you know, click [this](markdown.md)).
+check the source Markdown for this article (or any other articles) by clicking
+[here](https://github.com/Charon77/charon77.github.io/blob/master/posts/how-to-write-blogs-without-any-code-a-beginners-guide-to-markdown.md)
 
 Formally speaking, markdown files `.md` are documents that are _easy to view_, whether
 you view it on a browser (like Firefox) or using text editor (like Notepad).
@@ -105,7 +104,7 @@ With Markdown, you can see a website _nicely_ even with just a text editor.
 This is _sooooooo_ unlike HTML, which looks gibberish to the untrained eyes.
 
 Today, people favor Markdown for its readability (when viewed as a plain text)
-and its simplicity. This allows even visitors that uses ancient PCs for _surfing the web_ to access your website.
+and its simplicity. This allows even visitors that use ancient PCs for _surfing the web_ to access your website.
 
 Let's take a look at a couple of examples.
 
@@ -167,7 +166,7 @@ doubt even first-timers would have no difficulties understanding
 what the document is about.
 
 That being said, Markdown is **not** a replacement for HTML, rather a
-_teeny-tiny_ subset of it. Behind the scene, these Markdown documents
+_teeny-tiny_ subset of it. Behind the scenes, these Markdown documents
 are converted to HTML. However for most people that needs to write,
 Markdown is enough, and you don't need sophisticated tools to understand
 its content.
@@ -209,7 +208,7 @@ Headings
 --------
 
 Headings are important. It catches attention from the reader, provides 
-clue about what your writing is about, but most importantly: it is the
+clues about what your writing is about, but most importantly: it is the
 first thing anyone sees.
 
 Now I've said before that Markdown tries to be as close as plain text as possible.
@@ -290,7 +289,7 @@ looks bad.
 
 Personally, I prefer this method as it looks clearer in plain text.
 However, you can use this format **only** for Heading 1 and Heading 2.
-For levels below it, rever to the \# format below.
+For levels below it, refer to the \# format below.
 
 #### Second way: Hashes `#` can also be used before the heading.
 
@@ -302,7 +301,7 @@ as you only need to skim through the first character.
 In Markdown, this is useful when your heading is more than two levels deep,
 as `=` and `-` can only be used for level 1 and level 2 respectively.
 Hashes can mark headings from 1 to 6, depending on how many hashes
-do you use.
+you use.
 
 ##### Example:
 ```
@@ -334,11 +333,11 @@ Using dash signs `-` below the heading _is_ identical to using two `#`.
 
 ### Paragraphs
 
-How would you write paragraphs, say, in a word processor? You separate
+How would you write paragraphs, say, in a text editor? You separate
 them with `enter`.
 
 Rules for Paragraphs:
-- One or several lines of text becomes a single paragraph
+- One or several lines of text become a single paragraph
 - A blank line separates paragraphs.
 
 To illustrate, let's take a look on these examples.
@@ -587,9 +586,9 @@ end by using three backticks (\`\`\`).
 ```
 
 Please note that language support depends on the highlighting engine
-being used. If supported, the engine turns codes into the display format,
-for example HTML in its "prettified" form. CSS is usually added so that
-the browser shows the code in colors.
+being used. If supported, the engine will color the codes according to the 
+predefined rule, for example HTML in its "prettified" form. CSS is usually added
+so that the browser shows the code in colors.
 
 > #### One more Survey?
 > **Before** leaving, please take some time to [take the post-test][post-test],
