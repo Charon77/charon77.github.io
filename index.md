@@ -1,7 +1,7 @@
 Title Here
 ==========
 
-![notebook](/img/stock/pexels-photo-544115.jpeg)
+![notebook](/img/stock/pexels-photo-544115.jpg)
 
 Hello and welcome.
 
