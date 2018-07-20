@@ -1,3 +1,8 @@
+---
+title: How to know how to write
+date: 2018-07-20 08:38:06
+tags: meta blog writing
+---
 How to know how to write
 ========================
 
