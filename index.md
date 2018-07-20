@@ -25,7 +25,7 @@ This sections talks about itself
 This section hosts tools that make job as a developer easier.
 This includes tools that 'we can live without but are nicer to have'.
 
-<!-- #### [(in progress) Git - The Ultimate Undo Tool for Collaborative Projects](posts/git) -->
+<!-- #### [(in progress) Git - The Ultimate Undo Tool for Collaborative Projects](posts/git)  -->
 #### [How to write blogs without any code: A Beginner’s guide to Markdown](posts/how-to-write-blogs-without-any-code-a-beginners-guide-to-markdown)
 
 
