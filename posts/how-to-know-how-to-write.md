@@ -2,6 +2,7 @@
 title: How to know how to write
 date: 2018-07-20 08:38:06
 tags: meta blog writing
+description: One day you were writing a blog, and suddenly you forgot about it. Why is it so hard to find new things to write about?
 ---
 How to know how to write
 ========================
